@@ -10,7 +10,7 @@ const LandingNavbar = () => {
     <>
       <nav className={styles.nav}>
         <div className={styles.container}>
-          <h2>EduGrands</h2>
+          <h2>EduGrands.</h2>
 
           <div className={styles.navigation}>
             <p className={styles.navigationP}>About Us</p>
